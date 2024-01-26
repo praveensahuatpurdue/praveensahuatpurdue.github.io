@@ -55,9 +55,9 @@ content:
      - my_flag: true
      - title :  IEEE DEIS Graduate Fellowship Winner, November 2023 
      - description: |
-       Dielectrics and Electrical Insulation Society (DEIS), is a prestigious grant and enables its winner to further explore a research topic in the areas of electrical insulation and dielectric phenomena. The fellowship aims at students pursuing their Ph.D. degree and is awarded for a one-year research topic aside (but close to) the larger research project of the applicant.
+        Dielectrics and Electrical Insulation Society (DEIS), is a prestigious grant and enables its winner to further explore a research topic in the areas of electrical insulation and dielectric phenomena. The fellowship aims at students pursuing their Ph.D. degree and is awarded for a one-year research topic aside (but close to) the larger research project of the applicant.
      - layout : top-left
-     - my_flag: true
+     - my_flag : true
      - title :  Bilsland Dissertation Fellowship, May 2023
      - description: |
         Bilsland Dissertation Fellowship is a prestigious award given by departments and colleges to Ph.D. students who will enter the final year of their program in 2024. As a recipient, I devote full-time effort to the completion of all requirements necessary to receive the doctoral degree at the conclusion of the year of funding.

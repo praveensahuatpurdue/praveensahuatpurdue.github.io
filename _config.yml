@@ -6,9 +6,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Praveen Sahu
+title: Phd Candidate
+email: psahu@purdue.edu
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -19,25 +19,15 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+linkedin_username: psahu
+orcid_username: 0000-0002-0240-3108
+googlescholar_username: P9D8edUAAAAJ
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+- title: Portfolio
+  icon: fab fa-ello
+  url: praveensahuatpurdue.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,17 +40,90 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/1660775599024.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Applied Scientist leveraging data and experimental expertise to build 3D-printed biomedical electronic devices. More than 5-year 
+  extensive research in interdisciplinary research and three years of work experience in IoT and hardware development & market research
+  in a start-up ecosystem.
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Purdue University, West Lafyette, IN, USA
+        sub_title: Ph.D. in Technology with specialization in Interdisciplinary Research (Biomedical Sensors)
+        caption: 2021 - Expected Summer 2024
+      - layout: top-right
+        title: Indian Institute of Technology Madras (IIT Madras), Chennai, India
+        sub_title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)
+        caption: 2013 - 2017
+      - layout: top-right
+        title: Indian Institute of Information Technology Design & Manufacturing, Kancheepuram (IIITDM), Chennai, India
+        sub_title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing
+        caption: 2009-2013
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Ultima Genomics, Newark, California, USA
+        sub_title: Research and Development Intern, Intrumentation Platform
+        caption: Jun 2022 - Aug 2022
+        link: https://www.ultimagenomics.com/
+        quote: >
+          Unleash the power of genomics at scale
+        description: | # this will include new lines to allow paragraphs
+          • Surface temperature profiling of silicon wafer on chuck using FLIR IR-based camera.
+          • Optical liquid level sensing characterization and chuck water leveling experiments.
+          • Assembly of new bead loading system and preparation of complete BOM and MPIs for final assembly and manufacturing.
+          • Design of place holder for silicon wafers on an optical bench.
+      - layout: right
+        title: Clairco, Bangalore, India
+        sub_title: Product Manager (R&D)
+        caption: Oct 2019 - Mar 2020 
+        description: | # this will include new lines to allow paragraphs
+          • Design and developed of Air Quality monitoring device prototype and integrated it with the Microsoft Azure IoT Platform 
+          • Collaborated with Manufacturer for bulk production (Currently 1000+ devices deployed in India).
+      - layout: right
+        title: Agrometrics, Hyderabad, India
+        sub_title: Product Manager 
+        caption: Aug 2018 - Dec 2018
+        description: | # this will include new lines to allow paragraphs
+          • Design of concept layout for Production Management and Quality Control (QC) handling software for Alsum Farms, USA
+          • Led first B2B product for the Potato Quality Control and PM software for Alsum Farms - Headed the deployment.
+      - layout: right
+        title: Enfrien Innovations, Bangalore, India
+        sub_title: Product Development Engineer (R&D)
+        caption: Mar 2017 - Jul 2018, Apr 2020 - Oct 2020
+        description: | # this will include new lines to allow paragraphs
+          • Developed ESP32 Wi-Fi Module based Indoor & Street lights that a Web/Cloud-based Software can control.
+          • Designed Voltage & Current Sensor-based Failure Prediction and Power Control Management device for LED drivers.
+          • Designed Dimming Circuitry for streetlights that work based on Sensing Ambient Light (LDR) and Real Time Clock.
+          • Conceptualized Wireless (GPRS GSM SIM800L) based Locking Mechanism and Geolocation for smart bikes.
+          • Designed a standalone Power Surge Protection Device (SPD), which can be plugged in with any device.
+          • Visited China for vendor identification & procurement process.
+      - layout: right
+        title: Indian Institute of Technology Ropar, Punjab, India
+        sub_title: Research Intern
+        caption: May 2012 - Jul 2012
+        description: | # this will include new lines to allow paragraphs
+          • Centralized Data Acquisition system (DAQ) for measurement of power, force, vibration, and the temperature of a workpiece 
+            on a Lathe Machine
+      - layout: right
+        title: Indian Institute of Information Technology, Kancheepuram
+        sub_title: Product Design Lab
+        caption: Jan 2012 -April 2012
+        description: | # this will include new lines to allow paragraphs
+          •  Developed a prototype of a portable washing machine (20 USD) for washing light clothes with a power consumption of less 
+             than 100 W
+      - layout: right
+        title: Central Electronics Lab (BEL), Bangalore, India
+        sub_title: Research Intern
+        caption: Jan 2012 -April 2012
+        description: | # this will include new lines to allow paragraphs
+          •  Developed an application to extract and process the information from a GPS module utilizing a microcontroller for finding the 
+            Geolocation of Commonwealth Games Baton
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -81,29 +144,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

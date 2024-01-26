@@ -43,12 +43,16 @@
 }
 
 .flag {
-  background-color: #ff0000; /* Set the background color of the flag */
-  color: #ffffff; /* Set the text color of the flag */
-  padding: 5px 10px; /* Adjust padding as needed */
-  border-radius: 5px; /* Add rounded corners for a nicer look */
-  font-weight: bold; /* Make the text bold */
-  /* Add any other styles you want for your flag */
+  position: relative;
+  width: 50px;
+  height: 50px;
+  background-color: #d60e18; /* News flag color (e.g., gold) */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000; /* Text color */
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .list-container {
@@ -121,12 +125,16 @@
       }
     }
     .flag {
-      background-color: #ff0000; /* Set the background color of the flag */
-      color: #ffffff; /* Set the text color of the flag */
-      padding: 5px 10px; /* Adjust padding as needed */
-      border-radius: 5px; /* Add rounded corners for a nicer look */
-      font-weight: bold; /* Make the text bold */
-      /* Add any other styles you want for your flag */
+      position: relative;
+  width: 200px;
+  height: 100px;
+  background-color: #ff0000; /* News flag color (e.g., gold) */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000; /* Text color */
+  font-size: 18px;
+  font-weight: bold;
     }
   }
 }

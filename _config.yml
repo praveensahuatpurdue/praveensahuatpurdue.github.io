@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
   Applied Scientist leveraging data and experimental expertise to build 3D-printed biomedical electronic devices. More than 5-year 
   extensive research in interdisciplinary research and three years of work experience in IoT and hardware development & market research
   in a start-up ecosystem.
-    
+
 highlights: |
   Highlights and News
   - IEEE DEIS Graduate Fellowship Winner, November 2023 : Dielectrics and Electrical Insulation Society (DEIS), is a prestigious grant and enables its winner to further explore a research topic in the areas of electrical insulation and dielectric phenomena. The fellowship aims at students pursuing their Ph.D. degree and is awarded for a one-year research topic aside (but close to) the larger research project of the applicant.
@@ -209,17 +209,10 @@ content:
       - Design of Monitoring & Diagnostic Systems, Advanced Topics in Instrumentation, Embedded Systems, Microsensors Machine Learning, Big Data, Statistics, Optimization
   
   - title: Teaching Experience
-    layout: list
+    layout: text
     content:  # this will include new lines to allow paragraphs
-      - layout : left
-      - title : ECET 277 Analog Circuit Systems
-      - description : > 
-          - Spring & Fall 2022, Spring 2023 
-
-      - layout : left
-      - title : ECET 299 Embedded Systems
-      - description : > 
-          - Spring & Fall 2022, Spring 2023
+      - ECET 277 Analog Circuit Systems, Spring & Fall 2022, Spring 2023 
+      - ECET 299 Embedded Systems, Spring & Fall 2022, Spring 2023
 
 # Footer
 footer_show_references: true

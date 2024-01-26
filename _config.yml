@@ -220,7 +220,7 @@ content:
       Design of Monitoring & Diagnostic Systems, Advanced Topics in Instrumentation, Embedded Systems, Microsensors Machine Learning, Big Data, Statistics, Optimization
   
   - title: Teaching Experience
-    layout: text
+    layout: list
     content:  # this will include new lines to allow paragraphs
       - layout : top-left
       - title : ECET 277 Analog Circuit Systems

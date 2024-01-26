@@ -50,15 +50,15 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Purdue University, West Lafyette, IN, USA
         sub_title: Ph.D. in Technology with specialization in Interdisciplinary Research (Biomedical Sensors)
         caption: 2021 - Expected Summer 2024
-      - layout: top-left
+      - layout: left
         title: Indian Institute of Technology Madras (IIT Madras), Chennai, India
         sub_title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)
         caption: 2013 - 2017
-      - layout: top-left
+      - layout: left
         title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India
         sub_title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing
         caption: 2009-2013
@@ -124,26 +124,21 @@ content:
          -   Developed an application to extract and process the information from a GPS module utilizing a microcontroller for finding the 
             Geolocation of Commonwealth Games Baton
 
-  - title: Projects # Title for the section
+  - title: Scientific Communications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+        title: Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing.
+        sub_title: Y Shan, P Sahu, R Sundararajan, H Mao
+        caption: 2022
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer  Occurrence
+        sub_title: Y Shan, P Sahu, R Sundararajan, H Mao
+        caption: 2022
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

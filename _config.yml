@@ -48,23 +48,24 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education
-    layout: text
+    layout: list
     content:
+      - layout: top - left
       - title: Purdue University, West Lafyette, IN, USA
         sub_title: Ph.D. in Technology with specialization in Interdisciplinary Research (Biomedical Sensors)
         caption: 2021 - Expected Summer 2024
-      - layout: middle
+      - layout: top - left
         title: Indian Institute of Technology Madras (IIT Madras), Chennai, India
         sub_title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)
         caption: 2013 - 2017
-      - layout: middle
+      - layout: top - left
         title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India
         sub_title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing
         caption: 2009-2013
   - title: Experience
     layout: list
     content:
-      - layout: top-left
+      - layout: top - left
         title: Ultima Genomics, Newark, California, USA
         sub_title: Research and Development Intern, Intrumentation Platform
         caption: Jun 2022 - Aug 2022
@@ -83,14 +84,14 @@ content:
         description: | # this will include new lines to allow paragraphs
          -  Design and developed of Air Quality monitoring device prototype and integrated it with the Microsoft Azure IoT Platform 
          -  Collaborated with Manufacturer for bulk production (Currently 1000+ devices deployed in India).
-      - layout: left
+      - layout: top - left
         title: Agrometrics, Hyderabad, India
         sub_title: Product Manager 
         caption: Aug 2018 - Dec 2018
         description: | # this will include new lines to allow paragraphs
          -  Design of concept layout for Production Management and Quality Control (QC) handling software for Alsum Farms, USA
          -  Led first B2B product for the Potato Quality Control and PM software for Alsum Farms - Headed the deployment.
-      - layout: left
+      - layout: top - left
         title: Enfrien Innovations, Bangalore, India
         sub_title: Product Development Engineer (R&D)
         caption: Mar 2017 - Jul 2018, Apr 2020 - Oct 2020
@@ -101,21 +102,21 @@ content:
          -  Conceptualized Wireless (GPRS GSM SIM800L) based Locking Mechanism and Geolocation for smart bikes.
          -  Designed a standalone Power Surge Protection Device (SPD), which can be plugged in with any device.
          -  Visited China for vendor identification & procurement process.
-      - layout: left
+      - layout: top - left
         title: Indian Institute of Technology Ropar, Punjab, India
         sub_title: Research Intern
         caption: May 2012 - Jul 2012
         description: | # this will include new lines to allow paragraphs
          -  Centralized Data Acquisition system (DAQ) for measurement of power, force, vibration, and the temperature of a workpiece 
             on a Lathe Machine
-      - layout: left
+      - layout: top - left
         title: Indian Institute of Information Technology, Kancheepuram
         sub_title: Product Design Lab
         caption: Jan 2012 -April 2012
         description: | # this will include new lines to allow paragraphs
          -   Developed a prototype of a portable washing machine (20 USD) for washing light clothes with a power consumption of less 
              than 100 W
-      - layout: left
+      - layout: top - left
         title: Central Electronics Lab (BEL), Bangalore, India
         sub_title: Research Intern
         caption: Jan 2012 -April 2012
@@ -124,7 +125,7 @@ content:
             Geolocation of Commonwealth Games Baton
 
   - title: Scientific Communications # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: top - left # Type of content section (list/text)
     content:
       - layout: middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 

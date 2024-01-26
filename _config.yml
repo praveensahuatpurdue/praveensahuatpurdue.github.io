@@ -50,22 +50,22 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: top-middle
       - title: Purdue University, West Lafyette, IN, USA
         sub_title: Ph.D. in Technology with specialization in Interdisciplinary Research (Biomedical Sensors)
         caption: 2021 - Expected Summer 2024
-      - layout: top-left
+      - layout: top-middle
         title: Indian Institute of Technology Madras (IIT Madras), Chennai, India
         sub_title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)
         caption: 2013 - 2017
-      - layout: top-left
+      - layout: top-middle
         title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India
         sub_title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing
         caption: 2009-2013
   - title: Experience
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Ultima Genomics, Newark, California, USA
         sub_title: Research and Development Intern, Intrumentation Platform
         caption: Jun 2022 - Aug 2022
@@ -77,21 +77,21 @@ content:
           - Optical liquid level sensing characterization and chuck water leveling experiments.
           - Assembly of new bead loading system and preparation of complete BOM and MPIs for final assembly and manufacturing.
           - Design of place holder for silicon wafers on an optical bench.
-      - layout: top-left
+      - layout: left
         title: Clairco, Bangalore, India
         sub_title: Product Manager (R&D)
         caption: Oct 2019 - Mar 2020 
         description: | # this will include new lines to allow paragraphs
          -  Design and developed of Air Quality monitoring device prototype and integrated it with the Microsoft Azure IoT Platform 
          -  Collaborated with Manufacturer for bulk production (Currently 1000+ devices deployed in India).
-      - layout: top-left
+      - layout: left
         title: Agrometrics, Hyderabad, India
         sub_title: Product Manager 
         caption: Aug 2018 - Dec 2018
         description: | # this will include new lines to allow paragraphs
          -  Design of concept layout for Production Management and Quality Control (QC) handling software for Alsum Farms, USA
          -  Led first B2B product for the Potato Quality Control and PM software for Alsum Farms - Headed the deployment.
-      - layout: top-left
+      - layout: left
         title: Enfrien Innovations, Bangalore, India
         sub_title: Product Development Engineer (R&D)
         caption: Mar 2017 - Jul 2018, Apr 2020 - Oct 2020
@@ -102,21 +102,21 @@ content:
          -  Conceptualized Wireless (GPRS GSM SIM800L) based Locking Mechanism and Geolocation for smart bikes.
          -  Designed a standalone Power Surge Protection Device (SPD), which can be plugged in with any device.
          -  Visited China for vendor identification & procurement process.
-      - layout: top-left
+      - layout: left
         title: Indian Institute of Technology Ropar, Punjab, India
         sub_title: Research Intern
         caption: May 2012 - Jul 2012
         description: | # this will include new lines to allow paragraphs
          -  Centralized Data Acquisition system (DAQ) for measurement of power, force, vibration, and the temperature of a workpiece 
             on a Lathe Machine
-      - layout: top-left
+      - layout: left
         title: Indian Institute of Information Technology, Kancheepuram
         sub_title: Product Design Lab
         caption: Jan 2012 -April 2012
         description: | # this will include new lines to allow paragraphs
          -   Developed a prototype of a portable washing machine (20 USD) for washing light clothes with a power consumption of less 
              than 100 W
-      - layout: top-left
+      - layout: left
         title: Central Electronics Lab (BEL), Bangalore, India
         sub_title: Research Intern
         caption: Jan 2012 -April 2012
@@ -125,23 +125,23 @@ content:
             Geolocation of Commonwealth Games Baton
 
   - title: Scientific Communications # Title for the section
-    layout: top-left # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
-      - layout: middle
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing.
         sub_title: International Mechanical Engineering Congress & Exposition (IMECE), 2022 
         caption: Y Shan, P Sahu, R Sundararajan, H Mao
         link: https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764
-      - layout: middle
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells
         sub_title: Applied Biochemistry and Biotechnology Journal, 2021  
         caption: P Sahu, I Camarillo, R Sundararajan
         link:  https://doi.org/10.1007/s12010-021-03723-5 
-      - layout: middle
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence
@@ -155,7 +155,7 @@ content:
         sub_title: 18th International Conference on Chemical sensing (ICCS), San Francisco, USA, Jun 2016
         caption : P Sahu, P Giri, I Camarillo, R Sundararajan
         link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:qjMakFHDy7sC
-      - layout: middle
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Estimation of nitrogen using pH-sensitive EISCAP sensor
@@ -163,7 +163,7 @@ content:
         caption : P Sahu, E Bhattacharya, A Chadha
         link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:d1gkVwhDpl0C
 
-      - layout: middle
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Simultaneous Trapping and Measurement of Nitrogen in Kjeldahl Process
@@ -216,17 +216,18 @@ content:
 
   - title: Relevant Courses
     layout: text
+    border: weak
     content: | # this will include new lines to allow paragraphs
       Design of Monitoring & Diagnostic Systems, Advanced Topics in Instrumentation, Embedded Systems, Microsensors Machine Learning, Big Data, Statistics, Optimization
   
   - title: Teaching Experience
     layout: list
     content:  # this will include new lines to allow paragraphs
-      - layout : top-left
+      - layout : top-middle
       - title : ECET 277 Analog Circuit Systems
       - caption : Spring & Fall 2022, Spring 2023
 
-      - layout : top-left
+      - layout : top-middle
       - title : ECET 299 Embedded Systems
       - caption : Spring & Fall 2022, Spring 2023
 

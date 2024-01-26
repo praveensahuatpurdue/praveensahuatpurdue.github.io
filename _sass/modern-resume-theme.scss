@@ -111,6 +111,14 @@
         font-weight: 500;
       }
     }
+    .flag {
+      background-color: #ff0000; /* Set the background color of the flag */
+      color: #ffffff; /* Set the text color of the flag */
+      padding: 5px 10px; /* Adjust padding as needed */
+      border-radius: 5px; /* Add rounded corners for a nicer look */
+      font-weight: bold; /* Make the text bold */
+      /* Add any other styles you want for your flag */
+    }
   }
 }
 

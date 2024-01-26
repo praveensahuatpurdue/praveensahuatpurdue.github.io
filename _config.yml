@@ -73,55 +73,55 @@ content:
         quote: >
           Unleash the power of genomics at scale
         description: | # this will include new lines to allow paragraphs
-          • Surface temperature profiling of silicon wafer on chuck using FLIR IR-based camera.
-          • Optical liquid level sensing characterization and chuck water leveling experiments.
-          • Assembly of new bead loading system and preparation of complete BOM and MPIs for final assembly and manufacturing.
-          • Design of place holder for silicon wafers on an optical bench.
+          - Surface temperature profiling of silicon wafer on chuck using FLIR IR-based camera.
+          - Optical liquid level sensing characterization and chuck water leveling experiments.
+          - Assembly of new bead loading system and preparation of complete BOM and MPIs for final assembly and manufacturing.
+          - Design of place holder for silicon wafers on an optical bench.
       - layout: left
         title: Clairco, Bangalore, India
         sub_title: Product Manager (R&D)
         caption: Oct 2019 - Mar 2020 
         description: | # this will include new lines to allow paragraphs
-          • Design and developed of Air Quality monitoring device prototype and integrated it with the Microsoft Azure IoT Platform 
-          • Collaborated with Manufacturer for bulk production (Currently 1000+ devices deployed in India).
+         -  Design and developed of Air Quality monitoring device prototype and integrated it with the Microsoft Azure IoT Platform 
+         -  Collaborated with Manufacturer for bulk production (Currently 1000+ devices deployed in India).
       - layout: left
         title: Agrometrics, Hyderabad, India
         sub_title: Product Manager 
         caption: Aug 2018 - Dec 2018
         description: | # this will include new lines to allow paragraphs
-          • Design of concept layout for Production Management and Quality Control (QC) handling software for Alsum Farms, USA
-          • Led first B2B product for the Potato Quality Control and PM software for Alsum Farms - Headed the deployment.
+         -  Design of concept layout for Production Management and Quality Control (QC) handling software for Alsum Farms, USA
+         -  Led first B2B product for the Potato Quality Control and PM software for Alsum Farms - Headed the deployment.
       - layout: left
         title: Enfrien Innovations, Bangalore, India
         sub_title: Product Development Engineer (R&D)
         caption: Mar 2017 - Jul 2018, Apr 2020 - Oct 2020
         description: | # this will include new lines to allow paragraphs
-          • Developed ESP32 Wi-Fi Module based Indoor & Street lights that a Web/Cloud-based Software can control.
-          • Designed Voltage & Current Sensor-based Failure Prediction and Power Control Management device for LED drivers.
-          • Designed Dimming Circuitry for streetlights that work based on Sensing Ambient Light (LDR) and Real Time Clock.
-          • Conceptualized Wireless (GPRS GSM SIM800L) based Locking Mechanism and Geolocation for smart bikes.
-          • Designed a standalone Power Surge Protection Device (SPD), which can be plugged in with any device.
-          • Visited China for vendor identification & procurement process.
+         -  Developed ESP32 Wi-Fi Module based Indoor & Street lights that a Web/Cloud-based Software can control.
+         -  Designed Voltage & Current Sensor-based Failure Prediction and Power Control Management device for LED drivers.
+         -  Designed Dimming Circuitry for streetlights that work based on Sensing Ambient Light (LDR) and Real Time Clock.
+         -  Conceptualized Wireless (GPRS GSM SIM800L) based Locking Mechanism and Geolocation for smart bikes.
+         -  Designed a standalone Power Surge Protection Device (SPD), which can be plugged in with any device.
+         -  Visited China for vendor identification & procurement process.
       - layout: left
         title: Indian Institute of Technology Ropar, Punjab, India
         sub_title: Research Intern
         caption: May 2012 - Jul 2012
         description: | # this will include new lines to allow paragraphs
-          • Centralized Data Acquisition system (DAQ) for measurement of power, force, vibration, and the temperature of a workpiece 
+         -  Centralized Data Acquisition system (DAQ) for measurement of power, force, vibration, and the temperature of a workpiece 
             on a Lathe Machine
       - layout: left
         title: Indian Institute of Information Technology, Kancheepuram
         sub_title: Product Design Lab
         caption: Jan 2012 -April 2012
         description: | # this will include new lines to allow paragraphs
-          •  Developed a prototype of a portable washing machine (20 USD) for washing light clothes with a power consumption of less 
+         -   Developed a prototype of a portable washing machine (20 USD) for washing light clothes with a power consumption of less 
              than 100 W
       - layout: left
         title: Central Electronics Lab (BEL), Bangalore, India
         sub_title: Research Intern
         caption: Jan 2012 -April 2012
         description: | # this will include new lines to allow paragraphs
-          •  Developed an application to extract and process the information from a GPS module utilizing a microcontroller for finding the 
+         -   Developed an application to extract and process the information from a GPS module utilizing a microcontroller for finding the 
             Geolocation of Commonwealth Games Baton
 
   - title: Projects # Title for the section

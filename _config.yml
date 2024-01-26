@@ -170,13 +170,64 @@ content:
         caption : P Sahu, E Bhattacharya, A Chadha
         link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:u-x6o8ySG0sC
 
+  - title: Sensor Development
+    layout: list
+    content:
+      - layout: top-middle
+        border: weak
+        title: Estimation of Nitrogen (NH4+ & organic) leveraging pH-Sensitive Electrolyte Insulator Semiconductor Capacitor (EISCAP) Sensor
+        description: >
+          -  Established both statistical & experimental co-relation between pH & amount of nitrogen present in the soil.
+          -  Micro-Fabrication of EISCAP sensor and characterization of the fabricated device for estimation of nitrogen.
+          -  Collection of soil samples, System Integration, and field-testing with soil and food samples.
+          -  Experimental validation using Colorimetry (Spectroscopy) & CHNS-O, Industry Standard, Elemental Analyzer.
 
-  - title: A Little More About Me
+  - title: Embedded System Development (Gold Medalist)
+    layout: list
+    content:
+      - layout: top-middle
+        border: weak
+        title: Wireless relay-based centralized control and monitoring of appliances
+        description: >
+         -  Demonstrated wireless relay-based centralized control and monitoring of appliances along with the direct transmission of residential energy consumption to the billing server using a GSM-based energy meter.
+  
+  - title: Software Skills
+    layout: list
+    content:
+      - layout: top-middle
+        border: weak
+        title: Computation
+        description: >
+         -  Embedded C/C++, Python, Matlab
+
+      - layout: top-middle
+        border: weak
+        title: Data Visualization (Analytics)
+        description: >
+         -  Tableau, Power BI, R
+      
+      - layout: top-middle
+        border: weak
+        title: Circuit Design
+        description: >
+         -  NI LabVIEW, NI Circuit Simulation, Proteus Design Suite, Cadence PCB, AutoCAD
+      
+
+  - title: Relevant Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Design of Monitoring & Diagnostic Systems, Advanced Topics in Instrumentation, Embedded Systems, Microsensors Machine Learning, Big Data, Statistics, Optimization
+  
+  - title: Teaching Experience
+    layout: text
+    content:  # this will include new lines to allow paragraphs
+      - layout : top-left
+      - title : ECET 277 Analog Circuit Systems
+      - caption : Spring & Fall 2022, Spring 2023
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - layout : top-left
+      - title : ECET 299 Embedded Systems
+      - caption : Spring & Fall 2022, Spring 2023
 
 # Footer
 footer_show_references: true

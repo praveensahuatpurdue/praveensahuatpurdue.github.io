@@ -67,12 +67,12 @@
 
     p {
       margin-bottom: 3px;
-      font-size: 2rem;
+      font-size: 1.4rem;
       text-align: inherit;
-      font-weight: 300;
+      font-weight: 400;
 
       b {
-        font-weight: 300;
+        font-weight: 400;
       }
     }
 
@@ -101,13 +101,14 @@
     h4 {
       margin-bottom: 0.1rem;
       font-weight: 200;
+      font-size : 1.6rem;
 
       @media print {
         margin-bottom: 0.2rem;
       }
 
       a {
-        font-weight: 200;
+        font-weight: 500;
       }
     }
   }

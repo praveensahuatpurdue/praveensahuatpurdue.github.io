@@ -130,14 +130,47 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing.
-        sub_title: Y Shan, P Sahu, R Sundararajan, H Mao
-        caption: 2022
+        sub_title: International Mechanical Engineering Congress & Exposition (IMECE), 2022 
+        caption: Y Shan, P Sahu, R Sundararajan, H Mao
+        link: https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764
       - layout: middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer  Occurrence
-        sub_title: Y Shan, P Sahu, R Sundararajan, H Mao
-        caption: 2022
+        title: Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells
+        sub_title: Applied Biochemistry and Biotechnology Journal, 2021  
+        caption: P Sahu, I Camarillo, R Sundararajan
+        link:  https://doi.org/10.1007/s12010-021-03723-5 
+      - layout: middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence
+        sub_title: IEEE International Conference on Trends in Electronics and Informatics (ICOEI), 2022
+        caption : P Sahu, P Giri, R Sunkara, R Sundararajan
+        link: https://ieeexplore.ieee.org/abstract/document/9777165/
+      - layout: middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Electroporation-Mediated Metformin for Effective Anticancer Treatment of Triple Negative Breast Cancer Cells
+        sub_title: 18th International Conference on Chemical sensing (ICCS), San Francisco, USA, Jun 2016
+        caption : P Sahu, P Giri, I Camarillo, R Sundararajan
+        link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:qjMakFHDy7sC
+      - layout: middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Estimation of nitrogen using pH-sensitive EISCAP sensor
+        sub_title: Proceedings 2021 Annual Meeting of the Electrostatics Society of America, Jun 2021, 2021
+        caption : P Sahu, E Bhattacharya, A Chadha
+        link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:d1gkVwhDpl0C
+
+      - layout: middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Simultaneous Trapping and Measurement of Nitrogen in Kjeldahl Process
+        sub_title: International Conference on Emerging Technologies in Agricultural Engineering (ETAE), IIT Kharagpur, India, Dec 2016
+        caption : P Sahu, E Bhattacharya, A Chadha
+        link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:u-x6o8ySG0sC
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

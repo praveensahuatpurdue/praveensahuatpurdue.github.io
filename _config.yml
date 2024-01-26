@@ -53,11 +53,11 @@ content:
       - title: Purdue University, West Lafyette, IN, USA
         sub_title: Ph.D. in Technology with specialization in Interdisciplinary Research (Biomedical Sensors)
         caption: 2021 - Expected Summer 2024
-      - layout: left
+      - layout: middle
         title: Indian Institute of Technology Madras (IIT Madras), Chennai, India
         sub_title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)
         caption: 2013 - 2017
-      - layout: left
+      - layout: middle
         title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India
         sub_title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing
         caption: 2009-2013
@@ -126,13 +126,13 @@ content:
   - title: Scientific Communications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing.
         sub_title: Y Shan, P Sahu, R Sundararajan, H Mao
         caption: 2022
-      - layout: left
+      - layout: middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer  Occurrence

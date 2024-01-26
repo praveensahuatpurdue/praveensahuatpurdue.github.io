@@ -50,8 +50,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: left
-        title: Purdue University, West Lafyette, IN, USA
+      - title: Purdue University, West Lafyette, IN, USA
         sub_title: Ph.D. in Technology with specialization in Interdisciplinary Research (Biomedical Sensors)
         caption: 2021 - Expected Summer 2024
       - layout: left
@@ -65,7 +64,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: left
+      - layout: top-left
         title: Ultima Genomics, Newark, California, USA
         sub_title: Research and Development Intern, Intrumentation Platform
         caption: Jun 2022 - Aug 2022
@@ -77,7 +76,7 @@ content:
           - Optical liquid level sensing characterization and chuck water leveling experiments.
           - Assembly of new bead loading system and preparation of complete BOM and MPIs for final assembly and manufacturing.
           - Design of place holder for silicon wafers on an optical bench.
-      - layout: left
+      - layout: top - left
         title: Clairco, Bangalore, India
         sub_title: Product Manager (R&D)
         caption: Oct 2019 - Mar 2020 

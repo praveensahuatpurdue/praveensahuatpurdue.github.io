@@ -46,7 +46,21 @@ about_content: | # this will include new lines to allow paragraphs
   extensive research in interdisciplinary research and three years of work experience in IoT and hardware development & market research
   in a start-up ecosystem.
 
+
 content:
+  - title : Highlights and News 
+    layout: list
+    content : 
+     - layout : top-left
+     - my_flag: true
+     - title :  IEEE DEIS Graduate Fellowship Winner, November 2023 
+     - description: |
+       Dielectrics and Electrical Insulation Society (DEIS), is a prestigious grant and enables its winner to further explore a research topic in the areas of electrical insulation and dielectric phenomena. The fellowship aims at students pursuing their Ph.D. degree and is awarded for a one-year research topic aside (but close to) the larger research project of the applicant.
+     - layout : top-left
+     - my_flag: true
+     - title :  Bilsland Dissertation Fellowship, May 2023
+     - description: |
+        Bilsland Dissertation Fellowship is a prestigious award given by departments and colleges to Ph.D. students who will enter the final year of their program in 2024. As a recipient, I devote full-time effort to the completion of all requirements necessary to receive the doctoral degree at the conclusion of the year of funding.
   - title: Education
     layout: list
     content:
@@ -61,7 +75,7 @@ content:
       - layout: top-left
         title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India
         sub_title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing
-        caption: 2009-2013
+        caption: 2009 - 2013
   - title: Experience
     layout: list
     content:
@@ -70,8 +84,6 @@ content:
         sub_title: Research and Development Intern, Intrumentation Platform
         caption: Jun 2022 - Aug 2022
         link: https://www.ultimagenomics.com/
-        quote: >
-          Unleash the power of genomics at scale
         description: | # this will include new lines to allow paragraphs
           - Surface temperature profiling of silicon wafer on chuck using FLIR IR-based camera.
           - Optical liquid level sensing characterization and chuck water leveling experiments.
@@ -200,7 +212,7 @@ content:
   - title: Relevant Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Design of Monitoring & Diagnostic Systems, Advanced Topics in Instrumentation, Embedded Systems, Microsensors Machine Learning, Big Data, Statistics, Optimization
+      - Design of Monitoring & Diagnostic Systems, Advanced Topics in Instrumentation, Embedded Systems, Microsensors Machine Learning, Big Data, Statistics, Optimization
   
   - title: Teaching Experience
     layout: list
@@ -208,12 +220,12 @@ content:
       - layout : left
       - title : ECET 277 Analog Circuit Systems
       - description : > 
-          Spring & Fall 2022, Spring 2023 
+          - Spring & Fall 2022, Spring 2023 
 
       - layout : left
       - title : ECET 299 Embedded Systems
       - description : > 
-          Spring & Fall 2022, Spring 2023
+          - Spring & Fall 2022, Spring 2023
 
 # Footer
 footer_show_references: true

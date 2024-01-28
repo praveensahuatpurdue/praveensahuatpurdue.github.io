@@ -42,9 +42,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/1660775599024.jpg
 about_content: | # this will include new lines to allow paragraphs
- - Passionate R&D engineer with a 4-year track record of driving healthcare innovation through next-generation electroporation-based breast cancer therapies, resulting in new clinically relevant treatments.
- - Demonstrated subject matter expert on electroporation therapy and interdisciplinary research, experimentation, and publication, resulting in 4+ peer-reviewed publications, 10+ presentations, 1 IEEE proposal, $65,000 in fellowships, and 2 presentation awards.
- - Proven leadership skills and experience managing research professionals in cross-functional R&D teams on collaborative projects and start-up ecosystem from conceptualization through early phase development, leading to 3 collaborative publications.
+   Passionate R&D engineer with a **4-year track record of driving healthcare innovation** through next-generation **electroporation-based breast cancer therapies**, resulting in new clinically relevant treatments.
+   Demonstrated subject matter expert on electroporation therapy and interdisciplinary research, experimentation, and publication, resulting in **4+ peer-reviewed publications (journals), 10+ presentations, 1 IEEE proposal, $65,000 in fellowships, and 2 presentation awards**.
+   Proven leadership skills and experience managing research professionals in cross-functional R&D teams on collaborative projects and **start-up ecosystem** from conceptualization through early phase development, leading to 3 collaborative publications.
 
 highlights: |
   - Fellowship: **IEEE Dielectrics and Electrical Insulation Society (DEIS) student fellowship** and grant, 2023 ($5,000.00).
@@ -193,7 +193,7 @@ content:
          -  Demonstrated wireless relay-based centralized control and monitoring of appliances along with the direct transmission of residential energy consumption to the billing server using a GSM-based energy meter.
   
   - title: Achievements and Awards
-    layout: list
+    layout: text
     content: |
       -  Fellowship: IEEE Dielectrics and Electrical Insulation Society (DEIS) student fellowship and grant, 2023 ($5,000.00).
       -  Fellowship: Bilsland dissertation scholarship by Purdue university, 2024 ($35,650.00).

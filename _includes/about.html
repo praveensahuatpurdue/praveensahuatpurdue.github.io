@@ -9,7 +9,22 @@
     {%- endif -%}
     <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
       {{ site.about_content | strip | markdownify }}
-      <div class="flag"></div>
+      <style>
+        .highlighted-text {
+            color: red;
+            animation: blink 1s infinite; /* Blinking animation */
+        }
+
+        @keyframes blink {
+            0%, 50%, 100% {
+                opacity: 1;
+            }
+            25%, 75% {
+                opacity: 0;
+            }
+        }
+        </style>
+        <span class="highlighted-text">Highlights and News</span>
       {{ site.highlights | strip | markdownify}}
     </div>
   </div>

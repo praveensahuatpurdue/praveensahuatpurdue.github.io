@@ -57,16 +57,16 @@ content:
     layout: list
     content:
       - layout: top-left 
-        title: Purdue University, West Lafyette, IN, USA
-        sub_title: Ph.D. in Electrical Engineering Technology with specialization in Cancer Research (Sensors)
+        title: Ph.D. in Electrical Engineering Technology with specialization in Cancer Research (Sensors) 
+        sub_title: Purdue University, West Lafyette, IN, USA
         caption: 2021 - Expected Summer 2024
       - layout: top-left 
-        title: Indian Institute of Technology Madras (IIT Madras), Chennai, India
-        sub_title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)
+        title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)
+        sub_title:  Indian Institute of Technology Madras (IIT Madras), Chennai, India
         caption: 2013 - 2017
       - layout: top-left
-        title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India
-        sub_title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing
+        title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing 
+        sub_title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India
         caption: 2009 - 2013
   - title: Experience
     layout: list

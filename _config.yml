@@ -178,7 +178,7 @@ content:
     content:
       - layout: top-left 
         title: Estimation of Nitrogen (NH4+ & organic) leveraging pH-Sensitive Electrolyte Insulator Semiconductor Capacitor (EISCAP) Sensor
-        description: >
+        description: |
           -  Established both statistical & experimental co-relation between pH & amount of nitrogen present in the soil.
           -  Micro-Fabrication of EISCAP sensor and characterization of the fabricated device for estimation of nitrogen.
           -  Collection of soil samples, System Integration, and field-testing with soil and food samples.
@@ -189,7 +189,7 @@ content:
     content:
       - layout: top-left 
         title: Wireless relay-based centralized control and monitoring of appliances
-        description: >
+        description: |
          -  Demonstrated wireless relay-based centralized control and monitoring of appliances along with the direct transmission of residential energy consumption to the billing server using a GSM-based energy meter.
   
   - title: Achievements and Awards

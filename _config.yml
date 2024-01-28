@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Praveen Sahu
-title: Ph.D Candidate, School of Engineering Technology, Purdue University, West Lafayette, USA
+title: Ph.D Candidate, Purdue University, West Lafayette, USA
 email: psahu@purdue.edu
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
@@ -47,10 +47,10 @@ about_content: | # this will include new lines to allow paragraphs
    Proven leadership skills and experience managing research professionals in cross-functional R&D teams on collaborative projects and **start-up ecosystem** from conceptualization through early phase development, leading to 3 collaborative publications.
 
 highlights: |
-  - Fellowship: **IEEE Dielectrics and Electrical Insulation Society (DEIS) student fellowship** and grant, 2023 ($5,000.00).
-  - Fellowship : **Bilsland dissertation scholarship** by Purdue university, 2024 ($35,650.00).
-  - Grants: Research summer grant by Purdue university, 2023 ($8,000.00). 
-  - Fellowship: **Prestigious Ross fellowship**, Purdue university, 2021 ($35,012.25).
+  - **Fellowship**: IEEE Dielectrics and Electrical Insulation Society (DEIS) student fellowship and grant, 2023 ($5,000.00).
+  - **Fellowship** : Bilsland dissertation scholarship by Purdue University, 2024 ($35,650.00).
+  - **Grants**: Research summer grant by Purdue University, 2023 ($8,000.00). 
+  - **Fellowship**: Prestigious Ross fellowship**, Purdue University, 2021 ($35,012.25).
 
 content:
   - title: Education

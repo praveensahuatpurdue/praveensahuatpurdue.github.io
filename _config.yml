@@ -163,7 +163,7 @@ content:
         sub_title: International Conference on Emerging Technologies in Agricultural Engineering (ETAE), IIT Kharagpur, India, Dec 2016
         caption : P Sahu, E Bhattacharya, A Chadha
         link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:u-x6o8ySG0sC
-
+ 
   - title: Sensor Development
     layout: list
     content:
@@ -183,6 +183,36 @@ content:
         description: >
          -  Demonstrated wireless relay-based centralized control and monitoring of appliances along with the direct transmission of residential energy consumption to the billing server using a GSM-based energy meter.
   
+  - title: Achievements and Awards
+    layout: list
+    content:
+    - description : >
+       - IEEE DEIS Graduate Fellowship Winner, November 2023 : Dielectrics and Electrical Insulation Society (DEIS), is a prestigious grant and enables its winner to further explore a research topic in the areas of electrical insulation and dielectric phenomena. The fellowship aims at students pursuing their Ph.D. degree and is awarded for a one-year research topic aside (but close to) the larger research project of the applicant
+       - Bilsland Dissertation Fellowship, May 2023: Bilsland Dissertation Fellowship is a prestigious award given by departments and colleges to Ph.D. students who will enter the final year of their program in 2024. As a recipient, I devote full-time effort to the completion of all requirements necessary to receive the doctoral degree at the conclusion of the year of funding.
+       - Best Oral Presentation Award (2nd Prize), Annual Meet, Electrostatic Satiety of America (ESA), USA, 2021.
+       - Best Student Presentation Award, INNCP Conference, India, 2021.
+       - Prestigious Ross Fellowship, Purdue University, 2021.
+       - Best Student Presentation Award, ISSS conference, San Francisco, USA, 2016.
+       - Fully Funded master's by MHRD, Govt. of India, 2013-2017.
+  
+  - title: Leadership and Responsibilities
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Represented team at Indo-Swiss Academia-Industry Training (Top 10 Start-ups), 2018.
+      -  Visited Guangzhou, China, to meet vendors and finalize production and negotiation in 2017.
+      -  Co-Led to secure Top-100 start-up position at Bangalore Tech Summit, Bangalore (India), the first round of funding.
+      -  Mentored 10+ interns to build a prototype for COVID-19-related products such as UV-C-based currency and grocery 
+         sterilizers. 
+      -  Served as Teaching Assistant for Undergraduate students in various courses.
+      -  Member - Data Visualization Society, Iron Hackathon (Purdue), Electrostatic Society of America (ESA), IEE
+
+  - title: Teaching Experience
+    layout: text
+    content:
+      - description : >  # this will include new lines to allow paragraphs
+          - ECET 277 Analog Circuit Systems, Spring & Fall 2022, Spring 2023 
+          - ECET 299 Embedded Systems, Spring & Fall 2022, Spring 2023
+
   - title: Software Skills
     layout: list
     content:
@@ -205,13 +235,13 @@ content:
   - title: Relevant Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Design of Monitoring & Diagnostic Systems, Advanced Topics in Instrumentation, Embedded Systems, Microsensors Machine Learning, Big Data, Statistics, Optimization
-  
-  - title: Teaching Experience
-    layout: text
-    content:  # this will include new lines to allow paragraphs
-      - ECET 277 Analog Circuit Systems, Spring & Fall 2022, Spring 2023 
-      - ECET 299 Embedded Systems, Spring & Fall 2022, Spring 2023
+      - Design of Monitoring & Diagnostic Systems.
+      - Advanced Topics in Instrumentation Embedded Systems.
+      - Microsensors 
+      - Machine Learning
+      - Big Data
+      - Statistics
+      - Optimization
 
 # Footer
 footer_show_references: true

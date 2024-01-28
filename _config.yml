@@ -57,9 +57,8 @@ content:
     layout: list
     content:
       - layout: top-left 
-        title: Ph.D. in Electrical Engineering Technology with specialization in Cancer Research (Sensors) 
+        title: Ph.D. in Electrical Engineering Technology with specialization in Cancer Research (Sensors) $~~~~~~~~~~~~~~~$ 2021 - Expected Summer 2024 
         sub_title: Purdue University, West Lafyette, IN, USA
-        caption: 2021 - Expected Summer 2024
       - layout: top-left 
         title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)
         sub_title:  Indian Institute of Technology Madras (IIT Madras), Chennai, India

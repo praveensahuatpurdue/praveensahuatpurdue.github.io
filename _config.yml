@@ -57,15 +57,15 @@ content:
     layout: list
     content:
       - layout: top-left 
-        title: Ph.D. in Electrical Engineering Technology with specialization in Cancer Research (Sensors) $~~~~~~~~~~~~~~~$ 2021 - Expected Summer 2024 
+        title: Ph.D. in Electrical Engineering Technology with specialization in Cancer Research (Sensors)                     2021 - Expected Summer 2024 
         sub_title: Purdue University, West Lafyette, IN, USA
       - layout: top-left 
-        title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)
+        title: Masters (Research) in Electrical Engineering with specialization in Microelectronics (Sensors)                  2013 - 2017
         sub_title:  Indian Institute of Technology Madras (IIT Madras), Chennai, India
         caption: 2013 - 2017
       - layout: top-left
         title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing 
-        sub_title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India
+        sub_title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India            2009 - 2013
         caption: 2009 - 2013
   - title: Experience
     layout: list

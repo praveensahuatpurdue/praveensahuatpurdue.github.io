@@ -42,10 +42,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/1660775599024.jpg
 about_content: | # this will include new lines to allow paragraphs
-   Passionate R&D engineer with a **4-year track record of driving healthcare innovation** through next-generation **electroporation-based breast cancer therapies**, resulting in new clinically relevant treatments.
-   Demonstrated subject matter expert on electroporation therapy and interdisciplinary research, experimentation, and publication, resulting in **4+ peer-reviewed publications (journals), 10+ presentations, 1 IEEE proposal, $65,000 in fellowships, and 2 presentation awards**.
-   Proven leadership skills and experience managing research professionals in cross-functional R&D teams on collaborative projects and **start-up ecosystem** from conceptualization through early phase development, leading to 3 collaborative publications.
+   Hi! I'm Praveen Sahu, a PhD Candidate at Purdue University, West Lafayette, in the School of Engineering Technology. I'm an applied scientist by training with a background in electrical engineering, but I have just enough expertise in biomedical sciences and data science to make trouble.
 
+   Currently working on an interdisciplinary project involving Electroporation techniques on triple-negative breast cancer cells. I joined Purdue in the spring of 2021 and started working with Dr Raji Sundararajan and Dr Ignacio Camarillo at Institute for Cancer Research.
 highlights: |
   - **Fellowship**: IEEE Dielectrics and Electrical Insulation Society (DEIS) student fellowship and grant, 2023 ($5,000.00).
   - **Fellowship** : Bilsland dissertation scholarship by Purdue University, 2024 ($35,650.00).
@@ -141,6 +140,11 @@ content:
   - title: Scientific Communications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-left 
+        title: Efficacy of metformin and electrical pulses in breast cancer MDAMB-231 cells (Accepted).
+        sub_title: Exploration of Targeted Anti-tumor Therapy, 2024
+        caption: P Sahu, I Camarillo, R Sundararajan
+        link: https://doi.org/10.37349/etat.2024.00204
       - layout: top-left 
         title: Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing.
         sub_title: International Mechanical Engineering Congress & Exposition (IMECE), 2022 

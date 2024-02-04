@@ -46,10 +46,11 @@ about_content: | # this will include new lines to allow paragraphs
 
    Currently working on an interdisciplinary project involving Electroporation techniques on triple-negative breast cancer cells. I joined Purdue in the spring of 2021 and started working with Dr Raji Sundararajan and Dr Ignacio Camarillo at Institute for Cancer Research.
 highlights: |
-  - **Fellowship**: IEEE Dielectrics and Electrical Insulation Society (DEIS) student fellowship and grant, 2023 ($5,000.00).
-  - **Fellowship** : Bilsland dissertation scholarship by Purdue University, 2024 ($35,650.00).
-  - **Grants**: Research summer grant by Purdue University, 2023 ($8,000.00). 
-  - **Fellowship**: Prestigious Ross fellowship**, Purdue University, 2021 ($35,012.25).
+   - **IEEE Fellowship**: Dielectrics and Electrical Insulation Society (DEIS) student fellowship and grant, 2023-2024 ($5,000).
+   - **Fellowship**: Recipient of Bilsland Dissertation Scholarship, Purdue University, 2023-2024 ($35,650).
+   - **Grants**: Recipient of Summer Research Grant (SGR), Purdue University, 2023 ($8,000). 
+   - **Fellowship**: Earned prestigious Ross Fellowship, Purdue University, 2021 ($35,012).
+   - **Award**: Best oral presentation (2nd Prize) at Electrostatic Society of America-ESA (2021), Best student presentation at INNCP Conference India (2021), Best student presentation award at ISSS conference, San Francisco (2016)
 
 content:
   - title: Education
@@ -67,6 +68,70 @@ content:
         title: Bachelor of Technology in Electronics with specialization in Design & Manufacturing 
         sub_title: Indian Institute of Information Technology Design & Manufacturing (IIIT DM), Kancheepuram, India            
         caption: 2009 - 2013
+
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        title: Computation
+        description: >
+         -  Embedded C/C++, Python, MATLAB, COMSOL
+
+      - layout: left
+        title: Data Visualization (Analytics)
+        description: >
+         -  Tableau, Power BI, Prism GraphPad, Excel Macros, Powerpoint
+      
+      - layout: left
+        title: Circuit Design
+        description: >
+         -  NI LabVIEW, NI Circuit Simulation, Cadence PCB, Matlab Simulink, Sketchup, Proteus Design Suite, AutoCAD 
+
+      - layout: left
+        title: Product Management
+        description: >
+         -  Trello, Asana, RACI, Gantt Chart
+
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left 
+        title: Efficacy of metformin and electrical pulses in breast cancer MDAMB-231 cells (Accepted).
+        sub_title: Exploration of Targeted Anti-tumor Therapy, 2024
+        caption: P Sahu, I Camarillo, R Sundararajan
+        link: https://doi.org/10.37349/etat.2024.00204
+      - layout: top-left 
+        title: Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing.
+        sub_title: International Mechanical Engineering Congress & Exposition (IMECE), 2022 
+        caption: Y Shan, P Sahu, R Sundararajan, H Mao
+        link: https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764
+      - layout: top-left 
+        title: Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells
+        sub_title: Applied Biochemistry and Biotechnology Journal, 2021  
+        caption: P Sahu, I Camarillo, R Sundararajan
+        link:  https://doi.org/10.1007/s12010-021-03723-5 
+      - layout: top-left 
+        title: Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence
+        sub_title: IEEE International Conference on Trends in Electronics and Informatics (ICOEI), 2022
+        caption : P Sahu, P Giri, R Sunkara, R Sundararajan
+        link: https://ieeexplore.ieee.org/abstract/document/9777165/
+      - layout: top-left 
+        title: Electroporation-Mediated Metformin for Effective Anticancer Treatment of Triple Negative Breast Cancer Cells
+        sub_title: 18th International Conference on Chemical sensing (ICCS), San Francisco, USA, Jun 2016
+        caption : P Sahu, P Giri, I Camarillo, R Sundararajan
+        link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:qjMakFHDy7sC
+      - layout: top-left 
+        title: Estimation of nitrogen using pH-sensitive EISCAP sensor
+        sub_title: Proceedings 2021 Annual Meeting of the Electrostatics Society of America, Jun 2021, 2021
+        caption : P Sahu, E Bhattacharya, A Chadha
+        link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:d1gkVwhDpl0C
+
+      - layout: top-left 
+        title: Simultaneous Trapping and Measurement of Nitrogen in Kjeldahl Process
+        sub_title: International Conference on Emerging Technologies in Agricultural Engineering (ETAE), IIT Kharagpur, India, Dec 2016
+        caption : P Sahu, E Bhattacharya, A Chadha
+        link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:u-x6o8ySG0sC
+ 
   - title: Experience
     layout: list
     content:
@@ -136,47 +201,6 @@ content:
         description: | # this will include new lines to allow paragraphs
          -   Developed an application to extract and process the information from a GPS module utilizing a microcontroller for finding the 
             Geolocation of Commonwealth Games Baton
-
-  - title: Scientific Communications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-left 
-        title: Efficacy of metformin and electrical pulses in breast cancer MDAMB-231 cells (Accepted).
-        sub_title: Exploration of Targeted Anti-tumor Therapy, 2024
-        caption: P Sahu, I Camarillo, R Sundararajan
-        link: https://doi.org/10.37349/etat.2024.00204
-      - layout: top-left 
-        title: Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing.
-        sub_title: International Mechanical Engineering Congress & Exposition (IMECE), 2022 
-        caption: Y Shan, P Sahu, R Sundararajan, H Mao
-        link: https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764
-      - layout: top-left 
-        title: Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells
-        sub_title: Applied Biochemistry and Biotechnology Journal, 2021  
-        caption: P Sahu, I Camarillo, R Sundararajan
-        link:  https://doi.org/10.1007/s12010-021-03723-5 
-      - layout: top-left 
-        title: Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence
-        sub_title: IEEE International Conference on Trends in Electronics and Informatics (ICOEI), 2022
-        caption : P Sahu, P Giri, R Sunkara, R Sundararajan
-        link: https://ieeexplore.ieee.org/abstract/document/9777165/
-      - layout: top-left 
-        title: Electroporation-Mediated Metformin for Effective Anticancer Treatment of Triple Negative Breast Cancer Cells
-        sub_title: 18th International Conference on Chemical sensing (ICCS), San Francisco, USA, Jun 2016
-        caption : P Sahu, P Giri, I Camarillo, R Sundararajan
-        link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:qjMakFHDy7sC
-      - layout: top-left 
-        title: Estimation of nitrogen using pH-sensitive EISCAP sensor
-        sub_title: Proceedings 2021 Annual Meeting of the Electrostatics Society of America, Jun 2021, 2021
-        caption : P Sahu, E Bhattacharya, A Chadha
-        link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:d1gkVwhDpl0C
-
-      - layout: top-left 
-        title: Simultaneous Trapping and Measurement of Nitrogen in Kjeldahl Process
-        sub_title: International Conference on Emerging Technologies in Agricultural Engineering (ETAE), IIT Kharagpur, India, Dec 2016
-        caption : P Sahu, E Bhattacharya, A Chadha
-        link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:u-x6o8ySG0sC
- 
   - title: Semiconductor based Bio/Chem Sensor
     layout: list
     content:
@@ -225,24 +249,6 @@ content:
         - ECET 277 Analog Circuit Systems, Spring & Fall 2022, Spring 2023 
         - ECET 299 Embedded Systems, Spring & Fall 2022, Spring 2023
 
-  - title: Software Skills
-    layout: list
-    content:
-      - layout: left
-        title: Computation
-        description: >
-         -  Embedded C/C++, Python, MATLAB, COMSOL
-
-      - layout: left
-        title: Data Visualization (Analytics)
-        description: >
-         -  Tableau, Power BI, Prism GraphPad
-      
-      - layout: left
-        title: Circuit Design
-        description: >
-         -  NI LabVIEW, NI Circuit Simulation, Proteus Design Suite, Cadence PCB, AutoCAD 
-      
 
   - title: Relevant Courses
     layout: text

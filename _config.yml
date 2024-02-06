@@ -43,21 +43,24 @@ additional_links:
 about_profile_image: images/1660775599024.jpg
 about_content: | # this will include new lines to allow paragraphs
    Hi! I'm Praveen Sahu, a PhD Candidate at Purdue University, West Lafayette, in the School of Engineering Technology. I'm an applied scientist by training with a background in electrical engineering, but I have just enough expertise in biomedical sciences and data science to make trouble.
+    -	Research and Development Engineer with a 4-year track record of advancing healthcare innovation through electroporation-based breast cancer therapies. Successful outcomes include the development of new clinically relevant treatments and next-generation 3D-printed microchannel-based electroporation devices.
+    -	Subject-matter expertise in electroporation therapy, interdisciplinary research, and scientific communication, resulting in 4+ peer-reviewed publications, 10+ presentations, 1 IEEE research grant, and $75,000+ in fellowships.
+    -	Leadership and project management experience in cross-functional teams and guiding collaborative projects from concept to end-to-end execution, leading to 2 collaborative publications and a semiconductor-based pH sensor.
+    -	Product development and conducted market research analysis in a start-up ecosystem for 3+ years on IoT hardware development and supervised the deployment of over 1000+ air quality monitoring devices.
 
-   Currently working on an interdisciplinary project involving Electroporation techniques on triple-negative breast cancer cells. I joined Purdue in the spring of 2021 and started working with Dr Raji Sundararajan and Dr Ignacio Camarillo at Institute for Cancer Research.
 highlights: |
-   - **IEEE Fellowship**: Dielectrics and Electrical Insulation Society (DEIS) student fellowship and grant, 2023-2024 ($5,000).
-   - **Fellowship**: Recipient of Bilsland Dissertation Scholarship, Purdue University, 2023-2024 ($35,650).
-   - **Grants**: Recipient of Summer Research Grant (SGR), Purdue University, 2023 ($8,000). 
-   - **Fellowship**: Earned prestigious Ross Fellowship, Purdue University, 2021 ($35,012).
-   - **Award**: Best oral presentation (2nd Prize) at Electrostatic Society of America-ESA (2021), Best student presentation at INNCP Conference India (2021), Best student presentation award at ISSS conference, San Francisco (2016)
+      -	**IEEE Fellowship**: Dielectrics and Electrical Insulation Society (DEIS) student fellowship and grant, 2023-2024 ($5,000).
+      -	**Fellowship**: Recipient of Bilsland Dissertation Scholarship, Purdue University, 2023-2024 ($35,650).
+      -	**Grants**: Recipient of Summer Research Grant (SGR), Purdue University, 2023 ($8,000). 
+      -	**Fellowship**: Earned prestigious Ross Fellowship, Purdue University, 2021 ($35,012).
+      -	**Award**: Best oral presentation (2nd Prize) at Electrostatic Society of America-ESA (2021), Best student presentation at INNCP Conference India (2021), Best student presentation award at ISSS conference, San Francisco (2016).
 
 content:
   - title: Education
     layout: list
     content:
       - layout: top-left 
-        title: Ph.D. in Electrical Engineering Technology with specialization in Cancer Research (Sensors)                     
+        title: Ph.D. in Electrical Engineering Technology with specialization in Cancer Treatment                 
         sub_title: Purdue University, West Lafyette, IN, USA
         caption: 2021 - Expected Summer 2024 
       - layout: top-left 
@@ -75,7 +78,7 @@ content:
       - layout: left
         title: Computation
         description: >
-         -  Embedded C/C++, Python, MATLAB, COMSOL
+         -  Embedded C/C++, LabVIEW, MATLAB, Python, COMSOL (FEM), ImageJ
 
       - layout: left
         title: Data Visualization (Analytics)
@@ -90,7 +93,17 @@ content:
       - layout: left
         title: Product Management
         description: >
-         -  Trello, Asana, RACI, Gantt Chart
+         -  Trello, RACI, Gantt Chart, DPR, Procurement, BOM, MPIs, Product Life Cycle 
+      
+      - layout: left
+        title: Wet lab
+        description: >
+         -  Electroporation, Cell culture, Cell Toxicity and Metabolic Assay, Semiconductor Fabrication Processes
+
+      - layout: left
+        title: Prototyping
+        description: >
+         -  3D-printing, SolidWorks, Design for X (DFX), Design Verification and Validation 
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
@@ -140,20 +153,22 @@ content:
         sub_title: Graduate Research Assistant
         caption: Jun 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          - 	Strong research formulation and implementation skills with expertise in experimental design and electroporation parameter optimization, demonstrated by 7-100 times increased breast cancer cell death upon electroporation-based drug delivery application.
-          - 	Demonstrated leadership in technology development for electroporation, as evidenced by the design and development of 2 electroporation electrodes for adherent cells and tissues and standard protocols and processes for in vitro electroporation and characterization. 
-          - 	Excellent problem solver with experience in medical device design, development, and testing, resulting in a 3D scaffold-based in vitro cancer drug testing platform. 
-          - 	Adept communicator and collaborator, bridging diverse audiences and forging partnerships that yielded 2 award-winning presentations and 2 publications across a complex matrixed and geographically dispersed environment.
+          -	Prepared research plan, design of experiment (DOR), analysis, and troubleshooting, particularly for optimization of electrical pulse parameters and drug delivery. Accomplished a 3-fold reduction in breast cancer cell viability.
+          -	Engineered 3D printing microfluidic device to create single cell streamline (passively) for precision cell manipulation and biomedical applications. Achieved 100µm microchannel width at a much lower cost than lithography.
+          -	Adapted and validated the use of 3D scaffold as an in vitro cancer drug testing platform under electroporation conditions (mimicking actual tissue structure). Led to a collaborative project yielding an award-winning presentation.
+          -	Proficient in interdisciplinary skills, including metabolomics, proteomics, and cell biology studies. Specialized in conducting laboratory experiments: cell culture, cell toxicity, ROS, glucose, and clonogenic in vitro assays.
+
       - layout: left
         title: Ultima Genomics, Newark, California, USA
         sub_title: Research and Development Intern, Intrumentation Platform
         caption: Jun 2022 - Aug 2022
         link: https://www.ultimagenomics.com/
         description: | # this will include new lines to allow paragraphs
-          - 	Surface temperature profiling of silicon wafer on chuck using FLIR IR-based camera ensuring stringent control and contributing to 60-70% reduction in temperature variations.
-          - 	Optical liquid level sensing characterization and chuck water leveling experiments. 
-          - 	Led the assembly of a cutting-edge bead loading system, preparing Bill of Materials (BOM) and Manufacturing Process Instructions (MPIs) to streamline production processes, contributing to an almost 30% reduction in assembly time.
-          - 	Rapid prototype of a silicon wafers holder on an optical bench by stacking multilayer acrylic sheets cut to precise specifications using Glowforge™ laser cutter.
+           -	Led the assembly of a cutting-edge bead loading system, drafted a Bill of Materials (BOM) and simplified Manufacturing Process Instructions (MPIs) to streamline production processes, contributing to a 33% reduction in assembly time.
+           -	Evaluated the surface temperature of silicon wafer on chuck using a FLIR IR-based camera, eliminated reflectivity issues, and redesigned the flexible PCB heater, contributing to a 60-70% reduction in temperature variations.
+           -	Investigated liquid level-sensor trigger volume detection, optimizing steady-state water volume to 30ml, resulting in leak-free bowl and improved fluidics testing for enhanced product reliability and efficiency.
+           -	Prepared rapid prototype for a silicon wafers holder on an optical bench by stacking multilayer acrylic sheets cut to precise specifications using Glowforge™ laser cutter and reached a flatness of ±5-10µm.
+
       - layout: left
         title: Clairco, Bangalore, India
         sub_title: Product Manager (R&D)
@@ -166,20 +181,17 @@ content:
         sub_title: Product Manager 
         caption: Aug 2018 - Dec 2018
         description: |
-          - 	Design of concept layout for Production Management and Quality Control (QC) handling software for Alsum Farms, USA. Used strategic project management methods like RACI to define roles, Gantt charts to track progress, and managed the budget effectively.
-          - 	Led first B2B product for the Potato Quality Control and PM software for Alsum Farms - Headed the deployment. Collaborated with cross-functional teams, including development, QA, and drive the end-to-end product development.
+          -	Designed and executed custom Production Management and Quality Control software for Alsum Farms (USA). Utilized strategic project management tools: RACI and Gantt charts, achieving the first milestone within 3 months. 
+          -	Led the deployment of a Business Intelligence System, leveraging the LinkFresh database; identified and optimized Key Performance Indicators (KPIs) for farm scheduling and in-house logistics, saving nearly 10% in revenue ($5 million).
       - layout: left
         title: Enfrien Innovations, Bangalore, India
         sub_title: Product Development Engineer (R&D)
         caption: Mar 2017 - Jul 2018, Apr 2020 - Oct 2020
         description: | # this will include new lines to allow paragraphs
-          - 	Developed ESP32 Wi-Fi Module based Indoor & Street lights that a Web/Cloud-based Software can control.
-          - 	Designed Voltage & Current Sensor-based Failure Prediction and Power Control Management device for LED drivers.
-          - 	Designed dimming circuitry for streetlights based on sensing ambient light (LDR) and real-time clock.
-          - 	Conceptualized Wireless (GPRS GSM SIM800L) based Locking Mechanism and Geolocation for smart bikes.
-          - 	Designed a standalone Power Surge Protection Device (SPD), which can be plugged in with any device.
-          - 	Visited China for vendor identification & procurement process. 
-
+          -	Developed and deployed ESP32 Wi-Fi-based indoor and streetlight dimming circuitry, incorporating ambient light sensing (LDR), real-time clock (RTC), and cloud-based control. Achieved potential energy savings of 20% per light.
+          -	Conceptualized a standalone and modular Power Surge Protection Device (SPD), which can be plugged in with any device, including medical diagnosis devices. Tested on LED fixtures and reduced the damage by >90%. 
+          -	Detailed project report (DPR) on the feasibility study of 550 MW Solar project for KfW (German Development Bank) in Maharashtra & Kerala: data-collection, survey methodology, capacity analysis.
+          -	Secured contract finalization through direct negotiations and on-site production oversight during a vendor visit to Guangzhou, China
       - layout: left
         title: Indian Institute of Technology Ropar, Punjab, India
         sub_title: Research Intern
@@ -201,16 +213,14 @@ content:
         description: | # this will include new lines to allow paragraphs
          -   Developed an application to extract and process the information from a GPS module utilizing a microcontroller for finding the 
             Geolocation of Commonwealth Games Baton
-  - title: Semiconductor based Bio/Chem Sensor
+  - title: Semiconductor based Bio/Chem Sensor (MASTER'S THESIS)
     layout: list
     content:
       - layout: top-left 
         title: Estimation of Nitrogen (NH4+ & organic) leveraging pH-Sensitive Electrolyte Insulator Semiconductor Capacitor (EISCAP) Sensor
         description: |
-          -  Established both statistical & experimental co-relation between pH & amount of nitrogen present in the soil.
-          -  Micro-Fabrication of EISCAP sensor and characterization of the fabricated device for estimation of nitrogen.
-          -  Collection of soil samples, System Integration, and field-testing with soil and food samples.
-          -  Experimental validation using Colorimetry (Spectroscopy) & CHNS-O, Industry Standard, Elemental Analyzer.
+          -	Fabricated pH-sensitive Electrolyte Insulator Semiconductor Capacitor (EISCAP) microsensor and enabled the characterization for estimation of nitrogen in soil while reducing analysis time from 10 min to 90 sec per sample.
+          -	Analyzed and established statistical correlation between pH vs. the amount of nitrogen in the soil (0-20 mg/L). 
 
   - title: Embedded System Development (Gold Medalist)
     layout: list
@@ -218,8 +228,7 @@ content:
       - layout: top-left 
         title: Wireless relay-based centralized control and monitoring of appliances
         description: |
-         -  Demonstrated wireless relay-based centralized control and monitoring of appliances along with the direct transmission of residential energy consumption to the billing server using a GSM-based energy meter.
-  
+          -  Designed and integrated wireless relay-based centralized control and monitoring of appliances along with the direct transmission of residential energy consumption to the billing server using a GSM-based energy meter.  
   - title: Achievements and Awards
     layout: text
     content: |
@@ -235,13 +244,13 @@ content:
   - title: Leadership and Responsibilities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Represented team at Indo-Swiss Academia-Industry Training (Top 10 Start-ups), 2018.
-      - Visited Guangzhou, China, to meet vendors and finalize production and negotiation in 2017.
-      - Co-Led to secure Top-100 start-up position at Bangalore Tech Summit, Bangalore (India), the first round of funding.
-      - Mentored 10+ interns to build a prototype for COVID-19-related products such as UV-C-based currency and grocery 
-         sterilizers. 
-      - Served as Teaching Assistant for Undergraduate students in various courses.
-      - Member - Data Visualization Society, Iron Hackathon (Purdue), Electrostatic Society of America (ESA), IEE
+      -	Presented ideas and led the team at Indo-Swiss Academia-Industry Training (Top 10 Start-ups), 2018.
+      -	Visited Guangzhou (China) to meet vendors and supervise production while concluding the negotiation in 2017.
+      -	Co-led and secured a Top-100 start-up position at Bangalore Tech Summit (India) as a first round of funding.
+      -	Brainstormed and mentored 5+ interns for COVID-19-related sterilizer prototype: UV-C-based currency and grocery.
+      -	Served as a Teaching Assistant and guided undergraduate students in various courses and projects.
+      -	Active member and affiliated with the Data Visualization Society, ISEBT (Electroporation Technologies), ESA, and IEEE.
+
 
   - title: Teaching Experience
     layout: text

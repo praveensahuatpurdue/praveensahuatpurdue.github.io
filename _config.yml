@@ -214,6 +214,7 @@ content:
          -   Developed an application to extract and process the information from a GPS module utilizing a microcontroller for finding the 
             Geolocation of Commonwealth Games Baton
   - title: Semiconductor based Bio/Chem Sensor (MASTER'S THESIS)
+    link: https://github.com/psahuatpurdue/MasterThesis_IITM/blob/main/MS_Bio.pdf
     layout: list
     content:
       - layout: top-left 

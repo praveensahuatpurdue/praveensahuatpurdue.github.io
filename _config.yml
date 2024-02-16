@@ -214,7 +214,6 @@ content:
          -   Developed an application to extract and process the information from a GPS module utilizing a microcontroller for finding the 
             Geolocation of Commonwealth Games Baton
   - title: Semiconductor based Bio/Chem Sensor (MASTER'S THESIS)
-    link: https://github.com/psahuatpurdue/MasterThesis_IITM/blob/main/MS_Bio.pdf
     layout: list
     content:
       - layout: top-left 
@@ -222,7 +221,7 @@ content:
         description: |
           -	Fabricated pH-sensitive Electrolyte Insulator Semiconductor Capacitor (EISCAP) microsensor and enabled the characterization for estimation of nitrogen in soil while reducing analysis time from 10 min to 90 sec per sample.
           -	Analyzed and established statistical correlation between pH vs. the amount of nitrogen in the soil (0-20 mg/L). 
-
+        link: https://github.com/psahuatpurdue/MasterThesis_IITM/blob/main/MS_Bio.pdf
   - title: Embedded System Development (Gold Medalist)
     layout: list
     content:

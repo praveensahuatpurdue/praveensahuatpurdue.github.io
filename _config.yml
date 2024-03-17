@@ -272,8 +272,12 @@ content:
       - Big Data
       - Statistics
       - Optimization
-
-# Footer
+  - title: Project Links # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left 
+        title: 3D Design Kjeldhal process
+        link: <a href="3D Design Kjeldhal process.pdf">3D Design Kjeldhal process.pdf </a>
 footer_show_references: true
 # references_title: References on request (Override references text)
 

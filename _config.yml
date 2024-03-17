@@ -272,12 +272,32 @@ content:
       - Big Data
       - Statistics
       - Optimization
+      
   - title: Project Links # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left 
         title: 3D Design Kjeldhal process
-        link: <a href="3D Design Kjeldhal process.pdf">3D Design Kjeldhal process.pdf </a>
+        link: <a href="3D Design Kjeldhal process.pdf">3D Design Kjeldhal process</a>
+
+      - layout: top-left 
+        title: 3D Inet Design
+        link: <a href="3D Inset.pdf">3D Inet Design</a>
+
+      - layout: top-left 
+        title: Electronic enclosure
+        link: <a href="Electronic enclosure.pdf">Electronic enclosure</a>
+
+      - layout: top-left 
+        title: Electronic enclosure
+        link: <a href="Y microchannel.pdf">Y microchannel</a>
+
+      - layout: top-left 
+        title: MS_Bio
+        link: <a href="MS_Bio.pdf">MS_Bio</a>
+
+
+
 footer_show_references: true
 # references_title: References on request (Override references text)
 

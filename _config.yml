@@ -296,6 +296,10 @@ content:
         title: MS_Bio
         link: <a href="MS_Bio.pdf">MS_Bio</a>
 
+      - layout: top-left 
+        title: Phd_Bio
+        link: <a href="Phd_Bio.pdf">Phd_Bio</a>
+
 
 
 footer_show_references: true
